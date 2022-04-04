@@ -1,0 +1,7 @@
+.singlepage{
+    margin-top: 40px;
+}
+.imageupload:hover{
+    transform : scale(1.02);
+    transition: all 0.3s;
+}
